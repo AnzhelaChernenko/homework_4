@@ -1,0 +1,137 @@
+th{
+    background-color: #FFE5E5;
+    padding: 100vh 3% 0 3%;
+    margin-right: 10px;
+    vertical-align: top;
+    display: inline-block;
+}
+
+tr {
+    text-align: center;
+}
+
+.block_1 {
+    width: 63px;
+    height: 63px;
+    border: 2px;
+    border-color: #8AA1C3;
+    border-style: solid;
+    background-color: transparent;
+    position: relative;
+    top: -400px;
+    left: 26%;
+    border-radius: 40px;
+    display: inline-block;
+    vertical-align: top;
+
+}
+
+.fone {
+    width: 15px;
+    height: 30px;
+    border: 1.5px;
+    border-color: #8AA1C3;
+    border-style: solid;
+    background-color: transparent;
+    position: relative;
+    top: 14px;
+    left: 22.2px;
+    border-radius: 6px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+b {
+    margin-left: 4px;
+    }
+
+div.part_1 {
+    position: relative;
+    top: -340px;
+    left: 18%;
+    display: inline-block;
+    vertical-align: top;
+
+}
+h4 {
+    margin-inline-start: -0.8em;
+}
+
+p {
+    margin-inline-start: -2.5em;
+}
+
+.block_2 {
+    width: 63px;
+    height: 63px;
+    border: 2px;
+    border-color: #2A69A6;
+    border-style: solid;
+    background-color: #2A69A6;
+    position: relative;
+    top: -400px;
+    left: 26%;
+    border-radius: 40px;
+    display: inline-block;
+    vertical-align: top;
+
+}
+
+
+div.part_2 {
+    position: relative;
+    top: -340px;
+    left: 18%;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.block_3 {
+    width: 63px;
+    height: 63px;
+    border: 2px;
+    border-color: #2A69A6;
+    border-style: solid;
+    background-color: #2A69A6;
+    position: relative;
+    top: -400px;
+    left: 26%;
+    border-radius: 40px;
+    display: inline-block;
+    vertical-align: top;
+
+}
+img.fone_3 {
+    position: relative;
+    top: 17px;
+    left: 15px;
+}
+
+
+img.fone_2 {
+    position: relative;
+    top: 17px;
+    left: 15px;
+}
+div.part_3 {
+    position: relative;
+    top: -340px;
+    left: 18%;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.block_1:hover{
+    background: #2a69a6;
+    border: 2px solid white;
+}
+
+.block_2:hover{
+    background: #2a69a6;
+    border: 2px solid white;
+}
+
+.block_3:hover{
+    background: #2a69a6;
+    border: 2px solid white;
+}
